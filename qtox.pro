@@ -550,4 +550,5 @@ HEADERS += \
     src/widget/tool/removefrienddialog.h \
     src/widget/tool/movablewidget.h \
     src/video/genericnetcamview.h \
-    src/video/groupnetcamview.h
+    src/video/groupnetcamview.h \
+    src/core/indexedlist.h
