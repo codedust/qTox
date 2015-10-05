@@ -500,7 +500,8 @@ SOURCES += \
     src/widget/tool/activatedialog.cpp \
     src/widget/tool/movablewidget.cpp \
     src/video/genericnetcamview.cpp \
-    src/video/groupnetcamview.cpp
+    src/video/groupnetcamview.cpp \
+    src/core/toxcall.cpp
 
 HEADERS += \
     src/audio/audio.h \
@@ -551,4 +552,5 @@ HEADERS += \
     src/widget/tool/movablewidget.h \
     src/video/genericnetcamview.h \
     src/video/groupnetcamview.h \
-    src/core/indexedlist.h
+    src/core/indexedlist.h \
+    src/core/toxcall.h
